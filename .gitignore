@@ -62,3 +62,7 @@ testdbs/
 coverage.tmp
 
 *.patch
+
+
+# macOS
+*.DS_Store
